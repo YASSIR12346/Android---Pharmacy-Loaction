@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Product/app/src/main/res/drawable/ic_email.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Product/app/src/main/res/drawable/ic_location.xml" value="0.1295" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Product/app/src/main/res/drawable/ic_logout.xml" value="0.1345" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Product/app/src/main/res/drawable/ic_market.xml" value="0.134" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Product/app/src/main/res/drawable/ic_name.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Product/app/src/main/res/drawable/ic_pass.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Product/app/src/main/res/drawable/ic_user.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Product/app/src/main/res/font/abril_fatface.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Product/app/src/main/res/layout/activity_location.xml" value="0.184375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Product/app/src/main/res/layout/activity_login.xml" value="0.184375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Product/app/src/main/res/layout/activity_main.xml" value="0.184375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Product/app/src/main/res/layout/activity_maps.xml" value="0.1703125" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Product/app/src/main/res/layout/activity_market_page.xml" value="0.184375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Product/app/src/main/res/layout/activity_markets_list.xml" value="0.184375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Product/app/src/main/res/layout/activity_order_product.xml" value="0.184375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Product/app/src/main/res/layout/activity_product_page.xml" value="0.22" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Product/app/src/main/res/layout/activity_search.xml" value="0.184375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Product/app/src/main/res/layout/activity_sign_up.xml" value="0.184375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Product/app/src/main/res/layout/activity_test.xml" value="0.184375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Product/app/src/main/res/layout/activity_user_info.xml" value="0.184375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Product/app/src/main/res/layout/custom_dialog.xml" value="0.184375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Product/app/src/main/res/layout/fragment_blank.xml" value="0.184375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Product/app/src/main/res/layout/fragment_market.xml" value="0.184375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Product/app/src/main/res/layout/fragment_product.xml" value="0.184375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Product/app/src/main/res/layout/single_item.xml" value="0.184375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Product/app/src/main/res/layout/singlemarketdesign.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Product/app/src/main/res/layout/singlerowdesign.xml" value="0.184375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Product/app/src/main/res/layout/test.xml" value="0.184375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Product/app/src/main/res/menu/menu.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Product/app/src/main/res/xml/network_security_config.xml" value="0.184375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
